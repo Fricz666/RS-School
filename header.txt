@@ -1,8 +1,3 @@
 This is test file,yappppy
-<<<<<<< HEAD
 Changes from <master>
-=======
-Some changes from <first>
 Changes from <first>
->>>>>>> first
-
