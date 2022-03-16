@@ -1,2 +1,7 @@
 This is test file,yappppy
+<<<<<<< HEAD
 Some changes from <first>
+=======
+Changes from <first>
+
+>>>>>>> master
